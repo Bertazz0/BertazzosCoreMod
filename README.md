@@ -1,3 +1,8 @@
+Information
+=======
+
+This mod is my first mod, also on NeoForge, I used it to learn about modding on Minecraft, my code isn't near as good as it can get, and if you have any suggestion or way of improving anything, please tell me so i can improve it.
+The mod was made with no initial idea, so i was just adding what i thought would be interesting.
 
 Installation information
 =======
