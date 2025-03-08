@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "bertazzoscoremod:block/dark_brick_block"
+    }
+  }
+}

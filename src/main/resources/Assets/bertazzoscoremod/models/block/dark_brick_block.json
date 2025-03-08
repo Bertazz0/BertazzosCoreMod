@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "bertazzoscoremod:block/dark_brick_block"
+  }
+}

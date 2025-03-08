@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "bertazzoscoremod:dark_brick"
+    }
+  },
+  "pattern": [
+    "DD ",
+    "DD ",
+    "   "
+  ],
+  "result": {
+    "id": "bertazzoscoremod:dark_brick_block",
+    "count": 1
+  }
+}
